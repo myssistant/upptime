@@ -9,6 +9,12 @@ sites:
   - name: Dev-api
     url: https://api-dev.myssistant.com/ping
     icon: https://spaces.myssistant.cloud/sites/favicon-32x32.png
+  - name: Prod
+    url: https://myssistant.com
+    icon: https://spaces.myssistant.cloud/sites/favicon-32x32.png
+  - name: Prod-api
+    url: https://api.myssistant.com/ping
+    icon: https://spaces.myssistant.cloud/sites/favicon-32x32.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
