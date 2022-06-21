@@ -24,12 +24,12 @@
     "slug": "dev-api",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "96.96%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.62%",
     "time": 520,
-    "timeDay": 470,
+    "timeDay": 579,
     "timeWeek": 507,
     "timeMonth": 520,
     "timeYear": 520,
@@ -60,17 +60,19 @@
     "url": "https://api.myssistant.com/ping",
     "icon": "https://spaces.myssistant.cloud/sites/favicon-32x32.png",
     "slug": "prod-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 590,
     "timeDay": 590,
     "timeWeek": 590,
     "timeMonth": 590,
     "timeYear": 590,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
